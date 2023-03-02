@@ -10,4 +10,8 @@ BIAN ...
 - oeuvre
 - interactive
 
-![image sélection nom du fichier](
+![image sélection nom du fichier](photos/BIAN_oeuvre_projecteur.jpg)
+
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/ID de votre vidéo ICI/0.jpg)](http://www.youtube.com/watch?v= ID de votre vidéo ICI).
+
+
